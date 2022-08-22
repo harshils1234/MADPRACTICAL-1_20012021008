@@ -5,3 +5,7 @@ parctical 1 output
 
 practical 2 output
 ![Screenshot (93)](https://user-images.githubusercontent.com/110705493/183282717-32be2027-cd5a-49c7-8612-b05368785450.png)
+
+practical 3 output
+
+![Screenshot (94)](https://user-images.githubusercontent.com/110705493/183283724-10ed1547-0250-4329-9c9d-6258ca771ae0.png)
