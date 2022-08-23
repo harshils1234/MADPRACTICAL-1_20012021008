@@ -39,3 +39,22 @@ practical 9 output
 practical 10 output
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/110705493/185964288-8bf1b1d0-1ab6-4137-b7b1-d9b4e4097298.png)
+
+practical 11 output
+![Screenshot (104)](https://user-images.githubusercontent.com/110705493/186166808-cad35d35-9456-489a-9f76-f12bf9d3f21e.png)
+
+![Screenshot (105)](https://user-images.githubusercontent.com/110705493/186166776-ff29bc85-85f8-4e45-a1c7-a15a41191612.png)
+
+exercise 1 output
+
+![Screenshot (106)](https://user-images.githubusercontent.com/110705493/186167957-33384975-feb4-4f24-ad3c-e4cbb41fed82.png)
+
+exercise 2 output
+
+![Screenshot (107)](https://user-images.githubusercontent.com/110705493/186168663-a29798ed-37a6-4734-b7f4-72cf09b09009.png)
+
+exercise 3 output
+
+![Screenshot (108)](https://user-images.githubusercontent.com/110705493/186169567-3974d221-0444-4497-8c9b-55e99b9d3722.png)
+
+
